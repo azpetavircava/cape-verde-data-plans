@@ -61,3 +61,10 @@ layout: default
   *   **WIFI补充**：大部分酒店和餐厅都提供免费Wi-Fi，在酒店时尽量连Wi-Fi，把宝贵的数据流量省给在路上用。
 
 　　说到底，在佛得角保持联网不再是什么难事。根据你的旅行风格（是城市探索还是荒野徒步）和设备情况，在物理SIM和eSIM之间做个选择，然后就把这事抛在脑后，尽情去享受大西洋上的阳光与音乐吧。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cape Verde SIM 卡购买与激活指南](https://faciylike.github.io/cape-verde-sim-guides)
